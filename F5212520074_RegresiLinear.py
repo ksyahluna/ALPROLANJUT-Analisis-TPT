@@ -1,4 +1,4 @@
-# TUGAS ALPRO LANJUT 
+# TUGAS STATISTIKA REGRESI LINEAR
 # Nama : Kissya Syahluna Rahim 
 # Nim : F5212520074
 # Kelas : Si B
